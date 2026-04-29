@@ -1,4 +1,4 @@
-[![Clyde's Donuts](https://www.clydesdonuts.com/wp-content/uploads/2018/06/horizontal-1.png)](htts://clydesdonuts.com)
+[![Clyde's Donuts](https://images.squarespace-cdn.com/content/v1/660af1ea135d3809d420f0c2/be3d96bd-bdd6-48bf-af15-5921e139bd1c/HSP-28359_Brand_Logo_Horz_Color-Full_RGB.png?format=500w)](htts://clydesdonuts.com)
 
 ## We're Clyde's Donuts 👋
 Hi there! When we're not busy making digital donuts here on github, we're busy making millions of real, delicious (physical) donuts. 
